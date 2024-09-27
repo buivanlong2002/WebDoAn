@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/model/Product.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/hibernate.cfg.xml</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/TransactionController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/configdatabase/ConfigDatabaseOracle.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/model/Ordered.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/HomeController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/BoardnewListClientDetailController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/admin/ProductAddController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/service/impl/ProductServiceImpl.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/admin/UserListController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/dao/impl/GenericDao.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/admin/AdminAddController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/dao/UserDao.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/DeleteProductInCartController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/ProductSeachByNameController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/dao/impl/CategoryDaoImpl.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/ProductListClientController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/model/Admin.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/admin/ProductListController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/ProductDetailController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/AddtoCartController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/dao/impl/GenericDaoImpl.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/admin/ProductEditController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/dao/impl/ReviewDaoImpl.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/dao/impl/AdminServicesImpl.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/dao/impl/ProductDaoImpl.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/UpdateCartController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/BoardnewListClientController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/dao/impl/BoardnewDaoImpl.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/ProductListOfCategoryClientController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/model/Item.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/controller/admin/UserEditController.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/dao/impl/UserDaoImpl.java</file>
+            <file>file:/E:/Study/JAVA/do-an-java-master/src/nongsan/webmvc/dao/impl/RegisterDao.java</file>
+        </group>
+    </open-files>
+</project-private>
